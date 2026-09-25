@@ -1,6 +1,6 @@
 # Submission form — Vireo Audio, Set E
 
-> Items marked **[FILL]** still need you: links, hours, and your own words in the AI section.
+> Only **[FILL]** left: honest hours.
 
 ---
 
@@ -51,8 +51,8 @@ Two checks on the same fixed random sample (seed 42):
 
 2. **100 tickets with careful reference labels.** Honest disclosure: these were labelled by
    Claude (a different AI from Gemini), reading both the customer message and the agent's
-   closing note, *without* seeing any prediction. They are not human labels. [FILL: if you
-   spot-check them, say "I checked N of them and changed M".]
+   closing note, *without* seeing any prediction. They are not human labels, and I
+   did not re-check them myself.
 
    | Method | Correct category | Correct team |
    |---|---|---|
@@ -154,20 +154,22 @@ two independent signals (resolving team and agent notes), and it changes a Rs 9 
   legacy timezone bug and the Billing/Logistics misrouting, wrote most of the Python code, tests
   and first drafts of the memo and these answers. I reviewed, ran and edited everything.
   It also produced the 100 reference labels used in the accuracy check (disclosed above).
-  **[FILL: say plainly which parts you changed yourself]**
+  My part: I directed the work, set up and ran the tool on my own laptop with my Gemini key,
+  reviewed the results and the memo, recorded the walkthrough, and published the repo. I did not
+  write most of the code myself.
 - **Gemini (`gemini-3.5-flash-lite`):** the classifier inside the tool.
 - **Where it helped:** fast data exploration; spotting the UTC issue from the policy PDF.
 - **Where it wasted time:** the first keyword rules (57% accuracy) needed rewriting because
-  generic words like "money" and "paid" appear in every complaint. [FILL: anything else]
+  generic words like "money" and "paid" appear in every complaint. Getting the tool set up and running on Windows also took some back-and-forth.
 - **What I threw away:** keyword rules v1 (57%) → v2 (68%), kept only as a baseline; prompt v1
   (category names only, 69%) in favour of v2 (definitions + rules for the paid-but-not-delivered
   case, 73%; delivery recall 68% → 88%); an "all hand-offs" cost figure (Rs 3.2 lakh), replaced by
   the narrower Billing-to-Logistics figure.
 
-Screen recording: **[FILL link]**
+Screen recording: in the Drive folder: https://drive.google.com/drive/folders/1RwSC2NuWJ_mrgpu0PeMh3LpXs6tIJad7?usp=drive_link
 
 ### Your public Google Drive link
-**[FILL]**
+https://drive.google.com/drive/folders/1RwSC2NuWJ_mrgpu0PeMh3LpXs6tIJad7?usp=drive_link
 
 ### Someone picks this up on Monday and you are unreachable. The three things they need to know.
 
@@ -185,4 +187,4 @@ Screen recording: **[FILL link]**
 **[FILL]**
 
 ### GitHub repo link
-**[FILL]**
+https://github.com/Adithyaadiga12/vireo-triage
