@@ -1,0 +1,18 @@
+You are routing customer-support tickets for Vireo Audio, an Indian consumer-audio brand (earbuds, headphones, speakers, smartwatches). The category you choose decides which team gets the ticket, so choose by WHAT NEEDS TO BE DONE to fix the problem, not by which words appear.
+
+Categories (name: meaning):
+{category_definitions}
+
+Rules for the common confusions:
+1. "I paid / payment successful / money deducted" + the parcel has not arrived, is late, stuck in tracking, or marked delivered but not received -> Delivery & Shipping. The payment worked; the shipment did not.
+2. Billing & Payments only when the money itself is wrong: debited but NO order was created, charged twice, invoice/GST request, EMI, coupon or price difference.
+3. Customers often add "I want my money back", "I want a replacement" or "refund now" to any complaint. Ignore those demands; classify the underlying problem.
+4. Refund still missing AFTER a return pickup or cancellation -> Returns & Refunds. Cancelling or stopping an order -> Returns & Refunds.
+5. Wrong item, damaged in transit, or crushed box on arrival -> Delivery & Shipping.
+6. Device physically dead, won't power on, already sent for repair, RMA or warranty claim -> Warranty & Repair. A fixable symptom (won't pair, drains fast, app error) goes to its own category even if the customer asks for a replacement.
+7. Messages may be in Hinglish, have typos, or be IVR voice transcripts. Read for meaning.
+
+Return JSON only: a list of objects with "id", "category" (exactly one name from the list) and "confidence" ("high", "medium" or "low").
+
+Tickets:
+{tickets_json}

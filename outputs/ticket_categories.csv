@@ -1,0 +1,301 @@
+ticket_id,month,category,new_category,assigned_team,resolving_team
+TK-251138,2026-03,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-241245,2025-03,App & Firmware,App & Firmware,Chat Frontline,Chat Frontline
+TK-252147,2026-04,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-246425,2025-10,Audio Quality,Audio Quality,Email Frontline,Email Frontline
+TK-250318,2026-02,Billing & Payments,Billing & Payments,Billing,Billing
+TK-249270,2026-01,Connectivity,Connectivity,Chat Frontline,Billing
+TK-250581,2026-02,Account & Login,Account & Login,Voice Frontline,Voice Frontline
+TK-242652,2025-05,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-246763,2025-11,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-251601,2026-03,Connectivity,Connectivity,Email Frontline,Email Frontline
+TK-243874,2025-08,Charging & Battery,Charging & Battery,Chat Frontline,Chat Frontline
+TK-248586,2025-12,Connectivity,Connectivity,Chat Frontline,Email Frontline
+TK-252241,2026-04,Other,Returns & Refunds,Chat Frontline,Chat Frontline
+TK-240428,2025-01,Billing & Payments,Billing & Payments,Billing,Billing
+TK-245989,2025-10,Returns & Refunds,Delivery & Shipping,Returns Desk,Returns Desk
+TK-243048,2025-06,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-252169,2026-04,Delivery & Shipping,Returns & Refunds,Logistics,Logistics
+TK-245358,2025-09,Other,Billing & Payments,Email Frontline,Email Frontline
+TK-245054,2025-09,App & Firmware,Account & Login,Chat Frontline,Chat Frontline
+TK-247934,2025-12,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-249580,2026-01,Other,Delivery & Shipping,Chat Frontline,Chat Frontline
+TK-249505,2026-01,Connectivity,Connectivity,Email Frontline,Email Frontline
+TK-247285,2025-11,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-242686,2025-05,App & Firmware,App & Firmware,Email Frontline,Email Frontline
+TK-243880,2025-08,Other,Returns & Refunds,Chat Frontline,Chat Frontline
+TK-245122,2025-09,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-247975,2025-12,Other,Returns & Refunds,Email Frontline,Email Frontline
+TK-246310,2025-10,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-246793,2025-11,Other,Delivery & Shipping,Chat Frontline,Chat Frontline
+TK-251013,2026-03,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-246251,2025-10,Billing & Payments,Delivery & Shipping,Billing,Billing
+TK-242294,2025-05,Billing & Payments,Delivery & Shipping,Billing,Logistics
+TK-247332,2025-11,Returns & Refunds,Delivery & Shipping,Returns Desk,Returns Desk
+TK-243877,2025-08,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-245287,2025-09,Billing & Payments,Delivery & Shipping,Billing,Logistics
+TK-247813,2025-12,Audio Quality,Audio Quality,Email Frontline,Email Frontline
+TK-244177,2025-08,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-251406,2026-03,Account & Login,Account & Login,Chat Frontline,Chat Frontline
+TK-249428,2026-01,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-241252,2025-03,Warranty & Repair,Delivery & Shipping,Escalations & Warranty,Escalations & Warranty
+TK-243845,2025-08,Other,Delivery & Shipping,Email Frontline,Email Frontline
+TK-252356,2026-04,Billing & Payments,Billing & Payments,Billing,Billing
+TK-252416,2026-04,Billing & Payments,Delivery & Shipping,Billing,Logistics
+TK-240818,2025-02,Other,Returns & Refunds,Chat Frontline,Logistics
+TK-244451,2025-08,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-250014,2026-02,Other,Billing & Payments,Chat Frontline,Chat Frontline
+TK-248767,2025-12,Product Enquiry,Product Enquiry,Chat Frontline,Chat Frontline
+TK-245703,2025-10,Connectivity,Connectivity,Email Frontline,Email Frontline
+TK-245844,2025-10,Billing & Payments,Billing & Payments,Billing,Billing
+TK-245196,2025-09,Product Enquiry,Product Enquiry,Voice Frontline,Voice Frontline
+TK-242350,2025-05,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-240624,2025-02,Billing & Payments,Billing & Payments,Billing,Billing
+TK-243240,2025-06,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-246948,2025-11,Audio Quality,Audio Quality,Chat Frontline,Chat Frontline
+TK-253773,2026-06,Product Enquiry,Product Enquiry,Chat Frontline,Chat Frontline
+TK-245769,2025-10,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-247667,2025-11,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-251260,2026-03,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-254106,2026-06,Warranty & Repair,Warranty & Repair,Escalations & Warranty,Escalations & Warranty
+TK-251119,2026-03,Billing & Payments,Billing & Payments,Billing,Billing
+TK-250945,2026-03,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-250608,2026-02,Other,Returns & Refunds,Chat Frontline,Chat Frontline
+TK-245870,2025-10,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-242233,2025-05,Billing & Payments,Billing & Payments,Billing,Billing
+TK-253176,2026-05,Audio Quality,Audio Quality,Chat Frontline,Chat Frontline
+TK-247673,2025-11,Product Enquiry,Product Enquiry,Email Frontline,Email Frontline
+TK-246000,2025-10,Warranty & Repair,Charging & Battery,Escalations & Warranty,Escalations & Warranty
+TK-245607,2025-10,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-253424,2026-05,App & Firmware,App & Firmware,Chat Frontline,Email Frontline
+TK-251786,2026-04,Billing & Payments,Billing & Payments,Billing,Returns Desk
+TK-247799,2025-12,Account & Login,Account & Login,Voice Frontline,Voice Frontline
+TK-248825,2025-12,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-240305,2025-01,Warranty & Repair,Warranty & Repair,Escalations & Warranty,Escalations & Warranty
+TK-252342,2026-04,App & Firmware,App & Firmware,Email Frontline,Email Frontline
+TK-242940,2025-06,Billing & Payments,Billing & Payments,Billing,Billing
+TK-253673,2026-05,Other,Returns & Refunds,Voice Frontline,Voice Frontline
+TK-242557,2025-05,Other,Returns & Refunds,Email Frontline,Email Frontline
+TK-240991,2025-02,Billing & Payments,Delivery & Shipping,Billing,Logistics
+TK-241929,2025-04,Other,Returns & Refunds,Voice Frontline,Voice Frontline
+TK-252790,2026-05,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-246279,2025-10,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-244166,2025-08,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-252354,2026-04,App & Firmware,App & Firmware,Email Frontline,Email Frontline
+TK-243068,2025-06,App & Firmware,App & Firmware,Chat Frontline,Chat Frontline
+TK-242547,2025-05,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-247811,2025-12,Delivery & Shipping,Delivery & Shipping,Logistics,Billing
+TK-254078,2026-06,Billing & Payments,Delivery & Shipping,Billing,Logistics
+TK-250289,2026-02,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-240328,2025-01,Other,Returns & Refunds,Chat Frontline,Logistics
+TK-254487,2026-06,Billing & Payments,Delivery & Shipping,Billing,Logistics
+TK-248225,2025-12,Billing & Payments,Delivery & Shipping,Billing,Logistics
+TK-241630,2025-04,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-244694,2025-08,Delivery & Shipping,Returns & Refunds,Logistics,Logistics
+TK-250471,2026-02,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-244459,2025-08,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-253216,2026-05,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-244092,2025-08,Billing & Payments,Billing & Payments,Billing,Billing
+TK-248746,2025-12,Charging & Battery,Charging & Battery,Chat Frontline,Chat Frontline
+TK-244331,2025-08,Billing & Payments,Billing & Payments,Billing,Billing
+TK-244081,2025-08,Charging & Battery,Charging & Battery,Chat Frontline,Chat Frontline
+TK-248945,2026-01,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-242618,2025-05,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-240239,2025-01,Charging & Battery,Charging & Battery,Chat Frontline,Chat Frontline
+TK-240963,2025-02,Account & Login,Billing & Payments,Email Frontline,Email Frontline
+TK-242001,2025-04,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-253551,2026-05,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-245405,2025-09,Other,Warranty & Repair,Voice Frontline,Voice Frontline
+TK-245445,2025-09,Connectivity,Connectivity,Email Frontline,Email Frontline
+TK-253768,2026-06,Billing & Payments,Returns & Refunds,Billing,Billing
+TK-251061,2026-03,Other,Billing & Payments,Chat Frontline,Chat Frontline
+TK-248198,2025-12,Account & Login,Account & Login,Email Frontline,Email Frontline
+TK-254143,2026-06,Account & Login,Account & Login,Chat Frontline,Chat Frontline
+TK-243098,2025-06,Other,Billing & Payments,Voice Frontline,Voice Frontline
+TK-249004,2026-01,Audio Quality,Audio Quality,Chat Frontline,Chat Frontline
+TK-252766,2026-05,Billing & Payments,Billing & Payments,Billing,Billing
+TK-240828,2025-02,Charging & Battery,Charging & Battery,Email Frontline,Email Frontline
+TK-252789,2026-05,Billing & Payments,Billing & Payments,Billing,Billing
+TK-251273,2026-03,Audio Quality,Audio Quality,Chat Frontline,Chat Frontline
+TK-242320,2025-05,Warranty & Repair,Warranty & Repair,Escalations & Warranty,Escalations & Warranty
+TK-251051,2026-03,Other,Billing & Payments,Chat Frontline,Chat Frontline
+TK-248149,2025-12,Connectivity,Connectivity,Email Frontline,Chat Frontline
+TK-248457,2025-12,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-249086,2026-01,Other,Delivery & Shipping,Chat Frontline,Email Frontline
+TK-240874,2025-02,Billing & Payments,Delivery & Shipping,Billing,Logistics
+TK-245078,2025-09,App & Firmware,App & Firmware,Email Frontline,Email Frontline
+TK-243238,2025-06,Product Enquiry,Product Enquiry,Chat Frontline,Chat Frontline
+TK-241795,2025-04,Billing & Payments,Delivery & Shipping,Billing,Logistics
+TK-252152,2026-04,Billing & Payments,Delivery & Shipping,Billing,Logistics
+TK-253164,2026-05,Other,Delivery & Shipping,Email Frontline,Email Frontline
+TK-252466,2026-04,Billing & Payments,Billing & Payments,Billing,Logistics
+TK-241058,2025-03,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-246803,2025-11,Connectivity,Connectivity,Voice Frontline,Chat Frontline
+TK-252444,2026-04,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-245775,2025-10,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-240746,2025-02,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-254007,2026-06,Billing & Payments,Billing & Payments,Billing,Billing
+TK-244522,2025-08,Other,Returns & Refunds,Email Frontline,Email Frontline
+TK-246959,2025-11,Warranty & Repair,Warranty & Repair,Escalations & Warranty,Escalations & Warranty
+TK-245153,2025-09,Billing & Payments,Delivery & Shipping,Billing,Logistics
+TK-253884,2026-06,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-242987,2025-06,Charging & Battery,Charging & Battery,Email Frontline,Escalations & Warranty
+TK-245468,2025-09,Account & Login,Billing & Payments,Chat Frontline,Chat Frontline
+TK-250125,2026-02,Billing & Payments,Billing & Payments,Billing,Billing
+TK-249713,2026-01,App & Firmware,App & Firmware,Chat Frontline,Chat Frontline
+TK-244351,2025-08,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-250327,2026-02,Other,Connectivity,Voice Frontline,Voice Frontline
+TK-253536,2026-05,Billing & Payments,Billing & Payments,Billing,Billing
+TK-253161,2026-05,Product Enquiry,Product Enquiry,Email Frontline,Email Frontline
+TK-250998,2026-03,Warranty & Repair,Warranty & Repair,Escalations & Warranty,Escalations & Warranty
+TK-245183,2025-09,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-241109,2025-03,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-251294,2026-03,Other,Returns & Refunds,Email Frontline,Email Frontline
+TK-249772,2026-01,Connectivity,Connectivity,Email Frontline,Email Frontline
+TK-244780,2025-09,Billing & Payments,Billing & Payments,Billing,Billing
+TK-243136,2025-06,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-244882,2025-09,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-247870,2025-12,Other,Audio Quality,Chat Frontline,Chat Frontline
+TK-240490,2025-01,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-252882,2026-05,Billing & Payments,Billing & Payments,Billing,Billing
+TK-244013,2025-08,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-243808,2025-07,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-243306,2025-07,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-249115,2026-01,App & Firmware,App & Firmware,Chat Frontline,Chat Frontline
+TK-248297,2025-12,Account & Login,Account & Login,Chat Frontline,Chat Frontline
+TK-244443,2025-08,Other,Warranty & Repair,Chat Frontline,Chat Frontline
+TK-252472,2026-04,Connectivity,Connectivity,Email Frontline,Escalations & Warranty
+TK-252481,2026-04,Connectivity,Audio Quality,Chat Frontline,Escalations & Warranty
+TK-241653,2025-04,Billing & Payments,Billing & Payments,Billing,Billing
+TK-243503,2025-07,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-248940,2026-01,Charging & Battery,Charging & Battery,Email Frontline,Email Frontline
+TK-247894,2025-12,App & Firmware,App & Firmware,Email Frontline,Email Frontline
+TK-252869,2026-05,Other,Charging & Battery,Email Frontline,Email Frontline
+TK-245955,2025-10,Product Enquiry,Product Enquiry,Voice Frontline,Voice Frontline
+TK-251871,2026-04,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-240194,2025-01,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-252563,2026-04,Product Enquiry,Product Enquiry,Chat Frontline,Logistics
+TK-247239,2025-11,Other,Product Enquiry,Chat Frontline,Chat Frontline
+TK-253459,2026-05,Billing & Payments,Billing & Payments,Billing,Billing
+TK-249769,2026-01,App & Firmware,App & Firmware,Chat Frontline,Chat Frontline
+TK-251027,2026-03,Connectivity,Connectivity,Email Frontline,Email Frontline
+TK-254565,2026-06,Charging & Battery,Charging & Battery,Chat Frontline,Chat Frontline
+TK-247310,2025-11,Connectivity,Connectivity,Email Frontline,Email Frontline
+TK-246448,2025-10,Other,Delivery & Shipping,Chat Frontline,Chat Frontline
+TK-253180,2026-05,Product Enquiry,Product Enquiry,Voice Frontline,Billing
+TK-254558,2026-06,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-244063,2025-08,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-246965,2025-11,Returns & Refunds,Delivery & Shipping,Returns Desk,Returns Desk
+TK-246693,2025-11,Returns & Refunds,Delivery & Shipping,Returns Desk,Returns Desk
+TK-241611,2025-03,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-253343,2026-05,Returns & Refunds,Delivery & Shipping,Returns Desk,Returns Desk
+TK-248369,2025-12,Billing & Payments,Billing & Payments,Billing,Billing
+TK-252470,2026-04,Other,Returns & Refunds,Chat Frontline,Chat Frontline
+TK-246012,2025-10,Billing & Payments,Billing & Payments,Billing,Billing
+TK-248965,2026-01,Account & Login,Account & Login,Email Frontline,Email Frontline
+TK-243537,2025-07,Billing & Payments,Returns & Refunds,Billing,Billing
+TK-251922,2026-04,Charging & Battery,Charging & Battery,Chat Frontline,Chat Frontline
+TK-253106,2026-05,Other,Returns & Refunds,Chat Frontline,Chat Frontline
+TK-242018,2025-04,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-245613,2025-10,Billing & Payments,Billing & Payments,Billing,Billing
+TK-243159,2025-06,Other,Billing & Payments,Chat Frontline,Chat Frontline
+TK-241503,2025-03,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-242780,2025-06,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-251490,2026-03,Other,Delivery & Shipping,Chat Frontline,Email Frontline
+TK-248082,2025-12,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-248976,2026-01,Account & Login,Account & Login,Chat Frontline,Chat Frontline
+TK-242804,2025-06,Other,Connectivity,Chat Frontline,Chat Frontline
+TK-245620,2025-10,Billing & Payments,Returns & Refunds,Billing,Billing
+TK-246473,2025-10,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-244381,2025-08,Charging & Battery,Charging & Battery,Email Frontline,Email Frontline
+TK-246121,2025-10,Other,Returns & Refunds,Email Frontline,Email Frontline
+TK-244551,2025-08,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-248395,2025-12,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-243903,2025-08,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-248776,2025-12,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-253760,2026-06,Audio Quality,Audio Quality,Chat Frontline,Chat Frontline
+TK-253432,2026-05,Other,Billing & Payments,Email Frontline,Email Frontline
+TK-249366,2026-01,Audio Quality,Audio Quality,Email Frontline,Chat Frontline
+TK-252659,2026-04,Warranty & Repair,Warranty & Repair,Escalations & Warranty,Escalations & Warranty
+TK-248997,2026-01,Billing & Payments,Billing & Payments,Billing,Billing
+TK-246888,2025-11,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-241895,2025-04,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-246479,2025-10,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-243821,2025-07,App & Firmware,App & Firmware,Chat Frontline,Chat Frontline
+TK-244939,2025-09,Warranty & Repair,Charging & Battery,Escalations & Warranty,Escalations & Warranty
+TK-246337,2025-10,App & Firmware,Connectivity,Chat Frontline,Chat Frontline
+TK-243810,2025-07,Warranty & Repair,Charging & Battery,Escalations & Warranty,Escalations & Warranty
+TK-252879,2026-05,App & Firmware,Connectivity,Email Frontline,Email Frontline
+TK-243786,2025-07,Other,Returns & Refunds,Voice Frontline,Voice Frontline
+TK-252025,2026-04,Billing & Payments,Billing & Payments,Billing,Billing
+TK-244835,2025-09,Delivery & Shipping,Delivery & Shipping,Logistics,Chat Frontline
+TK-240752,2025-02,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-242155,2025-04,Connectivity,Connectivity,Chat Frontline,Email Frontline
+TK-244572,2025-08,Audio Quality,Audio Quality,Chat Frontline,Chat Frontline
+TK-247579,2025-11,Other,Delivery & Shipping,Chat Frontline,Chat Frontline
+TK-246780,2025-11,Product Enquiry,Product Enquiry,Email Frontline,Email Frontline
+TK-242458,2025-05,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-248200,2025-12,Other,Warranty & Repair,Email Frontline,Email Frontline
+TK-248701,2025-12,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-253697,2026-05,Audio Quality,Audio Quality,Chat Frontline,Chat Frontline
+TK-250884,2026-03,App & Firmware,App & Firmware,Voice Frontline,Voice Frontline
+TK-247418,2025-11,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-249443,2026-01,Connectivity,Connectivity,Chat Frontline,Chat Frontline
+TK-250538,2026-02,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-250890,2026-03,Audio Quality,Audio Quality,Chat Frontline,Email Frontline
+TK-240446,2025-01,Billing & Payments,Billing & Payments,Billing,Billing
+TK-247428,2025-11,Other,Delivery & Shipping,Chat Frontline,Chat Frontline
+TK-252910,2026-05,App & Firmware,Connectivity,Email Frontline,Chat Frontline
+TK-244654,2025-08,Other,Connectivity,Chat Frontline,Chat Frontline
+TK-253883,2026-06,Connectivity,Warranty & Repair,Email Frontline,Chat Frontline
+TK-243932,2025-08,Billing & Payments,Delivery & Shipping,Billing,Billing
+TK-244927,2025-09,App & Firmware,App & Firmware,Chat Frontline,Chat Frontline
+TK-248690,2025-12,Charging & Battery,Charging & Battery,Chat Frontline,Chat Frontline
+TK-244513,2025-08,Charging & Battery,Charging & Battery,Chat Frontline,Chat Frontline
+TK-244969,2025-09,Billing & Payments,Billing & Payments,Billing,Billing
+TK-252287,2026-04,Delivery & Shipping,Returns & Refunds,Logistics,Logistics
+TK-249094,2026-01,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-246878,2025-11,Charging & Battery,Charging & Battery,Email Frontline,Chat Frontline
+TK-243079,2025-06,Billing & Payments,Delivery & Shipping,Billing,Billing
+TK-248346,2025-12,Billing & Payments,Billing & Payments,Billing,Billing
+TK-249804,2026-01,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-250470,2026-02,Connectivity,App & Firmware,Voice Frontline,Voice Frontline
+TK-251594,2026-03,Connectivity,Connectivity,Voice Frontline,Voice Frontline
+TK-251533,2026-03,Billing & Payments,Delivery & Shipping,Billing,Logistics
+TK-253809,2026-06,App & Firmware,App & Firmware,Chat Frontline,Chat Frontline
+TK-247231,2025-11,App & Firmware,App & Firmware,Chat Frontline,Chat Frontline
+TK-253997,2026-06,Account & Login,Account & Login,Email Frontline,Email Frontline
+TK-246503,2025-10,Product Enquiry,Product Enquiry,Chat Frontline,Returns Desk
+TK-243930,2025-08,Other,Delivery & Shipping,Email Frontline,Email Frontline
+TK-245228,2025-09,Product Enquiry,Product Enquiry,Chat Frontline,Chat Frontline
+TK-251997,2026-04,Charging & Battery,Delivery & Shipping,Chat Frontline,Chat Frontline
+TK-254477,2026-06,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-240561,2025-01,Other,Returns & Refunds,Chat Frontline,Chat Frontline
+TK-243953,2025-08,Other,Returns & Refunds,Chat Frontline,Chat Frontline
+TK-243843,2025-08,Account & Login,Account & Login,Email Frontline,Chat Frontline
+TK-247828,2025-12,Connectivity,Connectivity,Voice Frontline,Voice Frontline
+TK-246786,2025-11,Other,Billing & Payments,Email Frontline,Email Frontline
+TK-251865,2026-04,Charging & Battery,Charging & Battery,Chat Frontline,Chat Frontline
+TK-243972,2025-08,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-241970,2025-04,Billing & Payments,Delivery & Shipping,Billing,Logistics
+TK-246156,2025-10,Product Enquiry,Product Enquiry,Chat Frontline,Chat Frontline
+TK-247192,2025-11,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-243434,2025-07,Warranty & Repair,Warranty & Repair,Escalations & Warranty,Escalations & Warranty
+TK-242337,2025-05,Billing & Payments,Billing & Payments,Billing,Chat Frontline
+TK-254496,2026-06,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-252958,2026-05,Charging & Battery,Charging & Battery,Email Frontline,Email Frontline
+TK-245961,2025-10,App & Firmware,App & Firmware,Chat Frontline,Chat Frontline
+TK-250568,2026-02,Account & Login,Billing & Payments,Email Frontline,Chat Frontline
+TK-252394,2026-04,Audio Quality,Audio Quality,Email Frontline,Chat Frontline
+TK-254509,2026-06,Billing & Payments,Returns & Refunds,Billing,Billing
+TK-253323,2026-05,Other,Billing & Payments,Chat Frontline,Chat Frontline
+TK-243035,2025-06,Other,Delivery & Shipping,Chat Frontline,Chat Frontline
+TK-240920,2025-02,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-242303,2025-05,Connectivity,Connectivity,Chat Frontline,Email Frontline
+TK-247804,2025-12,Returns & Refunds,Returns & Refunds,Returns Desk,Returns Desk
+TK-245429,2025-09,Account & Login,Account & Login,Voice Frontline,Voice Frontline
+TK-253496,2026-05,Other,Billing & Payments,Email Frontline,Email Frontline
+TK-249306,2026-01,Billing & Payments,Billing & Payments,Billing,Billing
+TK-246869,2025-11,Charging & Battery,Charging & Battery,Chat Frontline,Chat Frontline
+TK-245135,2025-09,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics
+TK-250261,2026-02,Delivery & Shipping,Delivery & Shipping,Logistics,Logistics

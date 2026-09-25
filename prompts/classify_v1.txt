@@ -1,0 +1,9 @@
+You are routing customer-support tickets for Vireo Audio, an Indian consumer-audio brand (earbuds, headphones, speakers, smartwatches).
+
+For each ticket, pick exactly one category from this list:
+{category_list}
+
+Return JSON only: a list of objects with "id" and "category".
+
+Tickets:
+{tickets_json}
